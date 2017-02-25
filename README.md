@@ -1,4 +1,6 @@
-# Scalding my fork
+# Scalding
+
+:)
 
 [![Build status](https://img.shields.io/travis/twitter/scalding/develop.svg)](http://travis-ci.org/twitter/scalding)
 [![Coverage Status](https://coveralls.io/repos/twitter/scalding/badge.png?branch=develop)](https://coveralls.io/r/twitter/scalding?branch=develop)
